@@ -1,7 +1,6 @@
 - Hi, I’m @royadaneshi
 - I’m interested in programming
 - I’m currently learning diffrent languages of programing and study computer engineering
-- I’m hope to get scholarship of american universities in future
 - to reach me email royadaneshi2001@gmail.com
 
 <!---
