@@ -1,6 +1,5 @@
 - Hi, I’m @royadaneshi
-- I’m interested in programming
-- I’m currently learning diffrent languages of programing and study computer engineering
+- I’m interested in programming and Machine Learning especially in OOD 
 - to reach me email royadaneshi2001@gmail.com
 
 <!---
